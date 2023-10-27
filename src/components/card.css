@@ -1,0 +1,13 @@
+.card{
+    border:1px solid yellowgreen;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    gap: 15px;
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.card_image{
+    width: 150px;
+}
